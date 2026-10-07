@@ -39,3 +39,4 @@ figure a{display:block;text-decoration:none!important}figure a:hover b{text-deco
 .sub{text-transform:uppercase;color:var(--ash);font-size:20px!important;margin-bottom:10px}
 img{display:block;width:100%;height:auto;aspect-ratio:4/5;object-fit:cover;background:#cfcbc2}
 img.hero{aspect-ratio:3/4;max-height:78vh}.rn{font-size:13px!important;letter-spacing:.08em;color:var(--ash);text-transform:uppercase;margin:6px 0 16px!important}
+.chk{display:block}.chk input{display:inline-block;width:auto;margin:0 8px 0 0;vertical-align:-2px}
